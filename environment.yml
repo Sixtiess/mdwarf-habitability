@@ -1,0 +1,14 @@
+name: mdwarfs
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - scipy
+  - ipykernel
+  - astropy
+  - numpy
+  - matplotlib
+  - astroquery
+  - lightkurve
+  - pandas
+prefix: C:\Users\thebo\miniforge3\envs\mdwarfs
